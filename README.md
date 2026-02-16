@@ -21,6 +21,18 @@ dots.ocr
 
 </div>
 
+<br>
+
+> **dots.ocr-1.5: Recognize Any Human Scripts and Symbols**<br>
+>  <br>
+[![Model Weight](https://img.shields.io/badge/HuggingFace-gray)](https://huggingface.co/rednote-hilab/dots.ocr-1.5)
+[![Demo](https://img.shields.io/badge/Demo-blue)](https://dotsocr.xiaohongshu.com/)
+
+> **dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model**<br>
+> Yumeng Li, Guang Yang, Hao Liu, Bowen Wang, Colin Zhang <br>
+[![arXiv](https://img.shields.io/badge/Arxiv-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2512.02498)
+[![Model Weight](https://img.shields.io/badge/HuggingFace-gray)](https://huggingface.co/rednote-hilab/dots.ocr)
+>
 
 
 ## Introduction
